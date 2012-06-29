@@ -1,0 +1,19 @@
+CollabCMS
+
+I want to create a community-built cms that has an intuitive GUI and a powerful backend. It will use PHP and MySQL as a base and incorporate jQuery and AJAX to provide a better user experience.
+
+Folder Structure:
+
+CollabCMS
+-classes (hold all the required classes)
+-images
+-includes (navigation, header, footer, contributors)
+-scripts
+--jQuery
+-userfiles
+--images
+--documents
+--media
+-styles
+
+SAVE
