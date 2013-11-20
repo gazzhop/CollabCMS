@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/CollabCMS.iml" filepath="$PROJECT_DIR$/.idea/CollabCMS.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/CollabCMS2.iml" filepath="$PROJECT_DIR$/.idea/CollabCMS2.iml" />
 >>>>>>> c307d16c1a158caf64cee37ee857eb650a7dd4d7
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/CollabCMS2.iml" filepath="$PROJECT_DIR$/.idea/CollabCMS2.iml" />
+>>>>>>> 51329b69c5e4f78414bcc7cdfc1dadcc941d8b65
     </modules>
   </component>
 </project>
